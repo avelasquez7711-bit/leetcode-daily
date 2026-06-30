@@ -1,8 +1,11 @@
-# LeetCode Daily Tracker
+# LeetCode Solutions Tracker
 
-My journey through LeetCode problems, daily. 
+Welcome to my repository tracking my problem solutions on LeetCode. This repository serves as a log of my progress and solutions organized by difficulty.
 
 ## Repository Structure
-- `/Easy` - Beginner-friendly problems
-- `/Medium` - Intermediate challenges
-- `/Hard` - Advanced algorithmic puzzles
+- `/Easy` 
+- `/Medium`
+- `/Hard`
+
+## License
+This repository is licensed under the MIT License. Feel free to use the code for educational purposes and as a learning reference.
